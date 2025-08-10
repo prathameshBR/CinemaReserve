@@ -45,5 +45,5 @@ java -cp "src;lib/mysql-connector-j-9.4.0.jar" Main
 
 
 ## 👤 Author
-- *Your Name*  
+- *Prathamesh Rupanawar*  
 - [GitHub Profile](https://github.com/prathameshBR)
